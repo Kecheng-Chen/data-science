@@ -1,2 +1,2 @@
-CS-C200A
-# Principles and Techniques of Data Science
+# UCB CSC200A Course Project 
+Principles and Techniques of Data Science
